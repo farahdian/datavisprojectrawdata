@@ -1,5 +1,5 @@
-Gender,Count
-Men,74817
-Women,4120
-Trans,746
-Non-binary/Genderqueer,1168
+,Gender,Count,Percentage
+0,Men,74817,92.54
+1,Women,4120,5.1
+2,Trans,746,0.92
+3,Non-binary/Genderqueer,1168,1.44
